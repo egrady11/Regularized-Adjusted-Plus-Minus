@@ -5,3 +5,5 @@ Summary: In this project, I created a plus-minus-based metric to facilitate comp
 Data: The data was sourced from NBAstuffer and a zip file is attached as "NBA 2018-19.csv.zip."
 
 Code: I worked in R and relied heavily on the dplyr and tidyr packages to transform the play-by-play data into the design matrix needed. The code is attached as "NBA RAPM 1819.R."
+
+Results: The rankings are attached as "RAPM1819 Rankings.xlsx."
